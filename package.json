@@ -1,0 +1,14 @@
+{
+  "name": "skull-room",
+  "version": "0.0.0",
+  "description": "",
+  "main": "/src/js/main.js",
+  "dependencies": {
+    "three": "^0.138.3",
+    "threestrap": "0.4.1"
+  },
+  "author": "Torleif West",
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
