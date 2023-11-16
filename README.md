@@ -27,3 +27,7 @@ open the skull blender file, and use the export tool to export a glb file. only 
 docs/main_cool_stained_glass_effect.js has a cool stained glass effect. like this:
 
 ![](docs/watershimmer.png)
+
+
+use this command to update the github pages branch
+```git subtree push --prefix dist origin gh-pages```
