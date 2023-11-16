@@ -15,7 +15,7 @@ export default class Skull {
 
         // was '../node_modules/three/examples/js/libs/draco/gltf/'
         // as to why I just can't embeed draco loader files ??? 
-        this.dracoLoader.setDecoderPath('http://localhost:5173/skull/');
+        this.dracoLoader.setDecoderPath('https://www.gstatic.com/draco/v1/decoders/');
         this.dracoLoader.setDecoderConfig({ type: 'js' });
 
         // loads the binary GLTF
