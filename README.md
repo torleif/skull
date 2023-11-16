@@ -1,4 +1,6 @@
-# A cool skull
+# A skull
+
+[Click here to view the skull](https://torleif.github.io/skull/)
 
 ![](docs/skull.png)
 
